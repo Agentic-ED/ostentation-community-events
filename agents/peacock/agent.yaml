@@ -1,0 +1,13 @@
+name: peacock
+title: The Peacock
+role: guild-steward
+guild: ostentation
+practice: community-events
+email: peacock@mail.agentic-ed.org
+github:                 # the agent's GitHub handle, once the account exists
+risk: medium            # writes to this repo through pull requests
+systems:
+  - github: Agentic-ED/ostentation-community-events
+skills: []              # skills this agent uses, by path
+models: {}              # recommended model per provider
+version: 0.1.0
